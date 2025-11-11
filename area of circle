@@ -1,0 +1,10 @@
+pi=3.14
+r=4
+area=3.14*r*r
+print("area is",area) 
+
+
+
+area is 50.24
+
+
