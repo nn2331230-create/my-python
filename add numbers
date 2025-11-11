@@ -1,0 +1,8 @@
+num1=int(input("enter the number1"))
+nmu2=int(input("enter the number2"))
+sum=(num1+nmu2)
+print(sum)
+
+enter the number14
+enter the number22
+6
